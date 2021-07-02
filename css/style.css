@@ -1,0 +1,43 @@
+h1{
+  color: salmon;
+}
+.main{
+  background-color: #E7E9EB;
+  padding: 20px;
+}
+h2{
+  font-weight: 100;
+}
+p{
+  font-size: 20px;
+}
+.content{
+  background:white;
+  height: 300px;
+  border-left: 5px solid #04AA6D;
+  padding: 10px 20px;
+}
+.content p{
+  margin: 0;
+
+
+}
+.text{
+  margin-bottom: 10px;
+  display: block;
+
+}
+button{
+  padding: 10px 20px;
+  background-color: #059862;
+  margin-top: 15px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+button a{
+  text-decoration: none;
+  color: white;
+}
